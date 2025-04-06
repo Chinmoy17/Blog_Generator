@@ -16,7 +16,7 @@ This project is a simple yet powerful **Blog Generator** built with [Streamlit](
 
 ## 🖼️ Demo Screenshot
 
-![Demo Screenshot](blog_generator.png)
+![Demo Screenshot](blog_generator.PNG)
 
 > *(Add a screenshot of your app running here)*
 
