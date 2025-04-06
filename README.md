@@ -36,3 +36,6 @@ This project is a simple yet powerful **Blog Generator** built with [Streamlit](
    ```bash
    git clone https://github.com/yourusername/llama2-blog-generator.git
    cd llama2-blog-generator
+
+   ```
+2. Create a Folder "models" and insert the LLM model you want to use. Huggingface would be a good platform for getting the desired models for free!
